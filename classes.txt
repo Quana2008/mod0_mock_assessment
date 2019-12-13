@@ -1,15 +1,17 @@
 Class: Chair
 
 Attributes:
-materialType (string)
+materialType (array)
 color (string)
 legs (integer)
+wheels (integer)
 weightCapacity (integer)
 swivelMovement (boolean)
 
 
 Methods:
-changematerialType (changes material of attribute)
+changematerialType (changes material as a string of materialType array)
 changeColor (changes color of attribute)
 addLegs (adds number of legs as integer)
-swivelMovement (change swivelMovement to false)
+addWheels (adds number of wheels as integer)
+swivelMovement (change swivelMovement to true or false)
