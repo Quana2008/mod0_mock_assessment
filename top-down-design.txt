@@ -1,0 +1,40 @@
+Doing Laundry
+
+  1 Gather clothes
+    1.1 Get clothes from hamper
+    1.2 Separate light color clothes
+      1.2.1 check clothing tags for washing instructions
+    1.3 Separate dark color clothes
+      1.3.1 check clothing tags for washing instructions
+  2 Put light color clothes in washer
+  3 Set washer settings
+    3.1 set capacity
+    3.2 set temperature
+    3.3 set cycle
+  4 Add detergent
+    4.1 retrieve desired detergent
+    4.2 fill 1 cap full of detergent
+    4.3 pour cap into washer
+  5 Start washer cycle
+    5.1 wait until cycle ends
+  6 Gather clothes from washer
+  7 Put clothes into dryer
+    7.1 add dryer sheet
+  8 Set dryer setting
+    8.1 set heat
+    8.2 set timer
+  9 Start dryer
+    9.1 wait until dryer timer ends
+  10 Gather clothes from dryer
+  11 Fold clothes
+    11.1 fold shirts
+    11.2 fold pants/skirts
+    11.3 Separate sock
+      11.3.1 match sock with mates
+    11.4 Separate underwear
+  12 Put clothes in dresser drawers
+    12.1 put shirts in shirt drawer
+    12.2 put pants/skirts in  pants/skirt drawer
+    12.3 put socks in sock drawer
+    12.4 put underwear in underwear drawer
+  13 Repeat from 2 for dark colors
