@@ -1,0 +1,21 @@
+Instances: Chair
+
+materialType ['wood', 'metal', 'plastic']
+color 'black'
+legs 4
+wheels 0
+weightCapacity 300
+swivelMovement false
+
+
+changematerialType (remove 'plastic' ['wood', 'metal'])
+changeColor ('cream')
+addLegs (4)
+addWheels (0)
+swivelMovement (false)
+
+changematerialType (remove 'metal' ['wood', 'plastic'])
+changeColor ('grey')
+addLegs (1)
+addWheels (3)
+swivelMovement (true)
